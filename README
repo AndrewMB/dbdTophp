@@ -1,1 +1,1 @@
-A project of my own accord that helps in my everyday work duties.  When executed, the program reads in a file with a .DBD extension, parses through it, and picks out important information.  It then uses this information to create a fully functional PHP file to be used on the company’s user interface
+A project to parse through dbd file types, picking out important information and converting it to a fully functional front end PHP file.
